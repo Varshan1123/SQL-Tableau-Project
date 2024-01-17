@@ -1,5 +1,5 @@
 # Sales Insights - Data Analysis using Tableau & SQL
-We analyze key indicators for our pizza sales data to gain insights into our business performance - A Data Analysis Project performed on Tableau & SQL
+We analyze key indicators for our pizza sales data to gain insights into our business performance - A Data Analysis Project performed on Tableau & SQL.
 
 ## Technologies used ⚙️:
 - MySQL 
