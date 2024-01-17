@@ -43,6 +43,11 @@ We analyze key indicators for our pizza sales data to gain insights into our bus
 
 ## Tableau Dashboard :
 
+- An dashboard providing quick & latest sales insights in order to support data driven decision making.
+- Dynamic Dashboard.
+- Dashboards uncovering sales order insights with latest data available.
+- Sales team able to take better decision & cost savings of total spend.
+  
 <img width="507" alt="image" src="https://github.com/Varshan1123/SQL-Tableau-Project/assets/136326209/a747cca1-e4ea-4e3f-94b5-8549c7d41f46">
 
 
